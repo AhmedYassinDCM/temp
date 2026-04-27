@@ -1,3 +1,4 @@
+```js
 const now = new Date();
         const monthIndex = now.getMonth();
         const currentQuarter = Math.floor(monthIndex / 3) + 1;
@@ -20,3 +21,9 @@ const now = new Date();
             year: now.getFullYear(),
             quarter: currentQuarter - 1
         };
+
+
+
+
+
+```
